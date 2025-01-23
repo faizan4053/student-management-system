@@ -1,14 +1,14 @@
 # student-management-system
 CRUD Application For Student Management System
 
-#To Run Front End Application
+# To Run Front End Application
 
 Run commands 
 
 npm install
 num start
 
-#To Run Backend Application 
+# To Run Backend Application 
 
 run commands
 
@@ -18,3 +18,7 @@ mvn spring-boot:run
 or
 
 java -jar target/student-management-system-0.0.1
+
+# Notes and Enhancements
+I have H2 database and command Line runner to inert the initial data .
+
