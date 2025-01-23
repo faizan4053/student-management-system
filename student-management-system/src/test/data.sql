@@ -1,0 +1,5 @@
+--INSERT INTO student (id, name, age, studentClass, phoneNumber) VALUES (1, 'abc', '12', 'II', '6345123445' );
+----INSERT INTO countries (id, name) VALUES (2, 'France');
+----INSERT INTO countries (id, name) VALUES (3, 'Brazil');
+----INSERT INTO countries (id, name) VALUES (4, 'Italy');
+----INSERT INTO countries (id, name) VALUES (5, 'Canada');

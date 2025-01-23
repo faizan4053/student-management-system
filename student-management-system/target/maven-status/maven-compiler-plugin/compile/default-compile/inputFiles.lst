@@ -1,0 +1,12 @@
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/dtos/StudentResponseDTO.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/repository/DepartmentRepository.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/controller/DepartmentController.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/service/DepartmentService.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/controller/StudentController.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/entity/Department.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/StudentManagementApplication.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/repository/StudentRepository.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/entity/Student.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/service/StudentService.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/utils/SystemUtilities.java
+/Users/mohfaiza3/Documents/student management system/student-management-system/src/main/java/com/synchrony/dtos/StudentDTO.java
