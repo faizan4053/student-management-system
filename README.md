@@ -20,5 +20,8 @@ or
 java -jar target/student-management-system-0.0.1
 
 # Notes and Enhancements
-I have H2 database and command Line runner to inert the initial data .
+I have used H2 database(inmemory) and command Line runner to inert the initial data .
+
+For front end application i have build the feature oriented application .
+
 
